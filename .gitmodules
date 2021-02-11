@@ -1,0 +1,6 @@
+[submodule "FirstSubmodule"]
+	path = FirstSubmodule
+	url = https://github.com/lveagithub/FirstSubmodule.git
+[submodule "SecondSubmodule"]
+	path = SecondSubmodule
+	url = https://github.com/lveagithub/SecondSubmodule.git
